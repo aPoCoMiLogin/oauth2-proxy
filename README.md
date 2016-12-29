@@ -1,4 +1,4 @@
-# Minimal oauth2_proxy Docker Image (13MB, 4MB compressed)
+## Minimal oauth2_proxy Docker Image (13MB, 4MB compressed)
 
 Versions v2.1 – built on [centurylink/ca-certs](https://github.com/CenturyLinkLabs/ca-certs-base-image).
 
